@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "directus": "^9.21.2"
+  }
+}
